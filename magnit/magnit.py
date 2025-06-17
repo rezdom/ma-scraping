@@ -1,4 +1,5 @@
-import json, requests, config
+import json, requests
+import magnit.config as config
 
 def get_shop_code(url: str, latitude: float, logitude: float):
     response = requests.get(url.format(lat=latitude, long=logitude), headers=config.HEADERS)
@@ -17,7 +18,7 @@ def load_data(path:str):
     steps = 0
     cards = []
     while (summary_data < 100 and steps < 16):
-        print(f'page {steps} | {summary_data}')
+        print(f"magnit's page {steps} | {summary_data}")
         products = get_products_data(config.URL_FOR_PRODUCTS, data)["items"]
         summary_data += len(products)
         steps += 1
@@ -25,7 +26,7 @@ def load_data(path:str):
             cards.append({"id":products[i]["id"],
                           "name":products[i]["name"],
                           "regular price":products[i]["promotion"]["oldPrice"]/100 if products[i]["promotion"]["oldPrice"] is not None else products[i]["price"]/100,  
-                          "promo price":products[i]["price"]/100, 
+                          "promo price":products[i]["price"]/100 if products[i]["promotion"]["oldPrice"] is not None else None, 
                           "brand":None})
         data["offset"] += data["limit"]
     with open(path, 'a', encoding='utf-8') as f:
