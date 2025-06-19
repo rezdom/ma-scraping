@@ -6,6 +6,7 @@
 Для запуска обоих парсеров запустить модуль ```main.py```:
 
 ```bash
+pip install -r requirements.txt
 python3 main.py
 ```
 

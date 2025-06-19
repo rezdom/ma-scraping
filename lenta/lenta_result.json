@@ -42,17 +42,17 @@
         "brand": null
     },
     {
-        "id": 11207,
-        "name": "Вырезка свиная ЛЕНТА FRESH",
-        "regular price": 389.99,
-        "promo price": 347.99,
-        "brand": null
-    },
-    {
         "id": 123265,
         "name": "Филе куриное ПЕТЕЛИНКА, весовое",
         "regular price": 469.99,
         "promo price": 469.99,
+        "brand": null
+    },
+    {
+        "id": 11207,
+        "name": "Вырезка свиная ЛЕНТА FRESH",
+        "regular price": 389.99,
+        "promo price": 347.99,
         "brand": null
     },
     {
@@ -70,10 +70,10 @@
         "brand": null
     },
     {
-        "id": 458680,
-        "name": "Филе куриное ТРОЕКУРОВО, 900г",
-        "regular price": 419.99,
-        "promo price": 419.99,
+        "id": 515834,
+        "name": "Фарш БЛИЖНИЕ ГОРКИ Деревенский, 400г",
+        "regular price": 199.99,
+        "promo price": 159.99,
         "brand": null
     },
     {
@@ -105,27 +105,6 @@
         "brand": null
     },
     {
-        "id": 626150,
-        "name": "Тушка цыпленка-бройлера ПЕТЕЛИНКА 1 сорт, потрошеная, весовая",
-        "regular price": 512.98,
-        "promo price": 474.98,
-        "brand": null
-    },
-    {
-        "id": 571710,
-        "name": "Филе бедра куриное ТРОЕКУРОВО, 750г",
-        "regular price": 369.99,
-        "promo price": 369.99,
-        "brand": null
-    },
-    {
-        "id": 675725,
-        "name": "Головы куриные замороженные, весовые",
-        "regular price": 99.99,
-        "promo price": 79.99,
-        "brand": null
-    },
-    {
         "id": 300975,
         "name": "Бедро куриное ПЕРВАЯ СВЕЖЕСТЬ, весовое",
         "regular price": 239.99,
@@ -140,10 +119,24 @@
         "brand": null
     },
     {
+        "id": 675725,
+        "name": "Головы куриные замороженные, весовые",
+        "regular price": 99.99,
+        "promo price": 79.99,
+        "brand": null
+    },
+    {
         "id": 692573,
         "name": "Голень куриная с кожей, весовая",
         "regular price": 195.99,
         "promo price": 171.99,
+        "brand": null
+    },
+    {
+        "id": 439716,
+        "name": "Печень куриная ПЕТЕЛИНКА, 500г",
+        "regular price": 199.99,
+        "promo price": 199.99,
         "brand": null
     },
     {
@@ -161,10 +154,10 @@
         "brand": null
     },
     {
-        "id": 692392,
-        "name": "Филе куриное без кожи, весовое",
-        "regular price": 344.99,
-        "promo price": 299.99,
+        "id": 259456,
+        "name": "Эскалоп из свинины ОСТАНКИНО, 400г",
+        "regular price": 289.99,
+        "promo price": 229.99,
         "brand": null
     },
     {
@@ -196,17 +189,10 @@
         "brand": null
     },
     {
-        "id": 300966,
-        "name": "Голень куриная ПЕРВАЯ СВЕЖЕСТЬ, весовая",
-        "regular price": 271.99,
-        "promo price": 271.99,
-        "brand": null
-    },
-    {
-        "id": 66878,
-        "name": "Котлета из свиной корейки ЛЕНТА FRESH, весовая",
-        "regular price": 230.0,
-        "promo price": 230.0,
+        "id": 696329,
+        "name": "Филе бедра куриное ПЕТЕЛИНКА без кожи, весовое",
+        "regular price": 370.99,
+        "promo price": 321.99,
         "brand": null
     },
     {
@@ -214,6 +200,13 @@
         "name": "Колбаски из говядины МИРАТОРГ Чевапчичи, 300г",
         "regular price": 269.99,
         "promo price": 199.99,
+        "brand": null
+    },
+    {
+        "id": 66878,
+        "name": "Котлета из свиной корейки ЛЕНТА FRESH, весовая",
+        "regular price": 230.0,
+        "promo price": 230.0,
         "brand": null
     },
     {
@@ -238,13 +231,6 @@
         "brand": null
     },
     {
-        "id": 692571,
-        "name": "Тушка куриная потрошенная, 1 сорт, весовая",
-        "regular price": 551.98,
-        "promo price": 431.98,
-        "brand": null
-    },
-    {
         "id": 166588,
         "name": "Фарш из говядины САМСОН категория А, 400г",
         "regular price": 499.99,
@@ -266,6 +252,20 @@
         "brand": null
     },
     {
+        "id": 671833,
+        "name": "Фарш индейки ПАВА ПАВА Нежный, 450г",
+        "regular price": 220.49,
+        "promo price": 209.99,
+        "brand": null
+    },
+    {
+        "id": 429379,
+        "name": "Котлеты куриные ПЕТЕЛИНКА Сливочные, 500г",
+        "regular price": 219.99,
+        "promo price": 159.99,
+        "brand": null
+    },
+    {
         "id": 484545,
         "name": "Филе бедра индейки ИНДИЛАЙТ, 410г",
         "regular price": 309.99,
@@ -273,24 +273,17 @@
         "brand": null
     },
     {
-        "id": 352256,
-        "name": "Шашлык из свиной шеи ЛЕНТА FRESH в брусничном маринаде",
-        "regular price": 699.99,
-        "promo price": 599.99,
-        "brand": null
-    },
-    {
-        "id": 429379,
-        "name": "Котлеты куриные ПЕТЕЛИНКА Сливочные, 500г",
-        "regular price": 219.99,
-        "promo price": 169.99,
-        "brand": null
-    },
-    {
         "id": 699495,
         "name": "Крылья куриные ПЕРВАЯ СВЕЖЕСТЬ две раздельные части, весовые",
         "regular price": 251.99,
         "promo price": 251.99,
+        "brand": null
+    },
+    {
+        "id": 352256,
+        "name": "Шашлык из свиной шеи ЛЕНТА FRESH в брусничном маринаде",
+        "regular price": 699.99,
+        "promo price": 599.99,
         "brand": null
     },
     {
@@ -310,36 +303,29 @@
     {
         "id": 463892,
         "name": "Стейк из филе грудки индейки натуральный ИНДИЛАЙТ, 525г",
-        "regular price": 389.99,
-        "promo price": 389.99,
-        "brand": null
-    },
-    {
-        "id": 441418,
-        "name": "Фрикадельки из свинины БЛИЖНИЕ ГОРКИ, 360г",
-        "regular price": 199.99,
-        "promo price": 144.99,
+        "regular price": 359.99,
+        "promo price": 359.99,
         "brand": null
     },
     {
         "id": 344184,
         "name": "Колбаски МИРАТОРГ Для гриля, 400г",
         "regular price": 229.99,
-        "promo price": 199.99,
+        "promo price": 189.99,
         "brand": null
     },
     {
         "id": 731792,
         "name": "Купаты ЛЕНТА на углях, 400г",
-        "regular price": 179.99,
-        "promo price": 149.99,
+        "regular price": 199.99,
+        "promo price": 159.99,
         "brand": null
     },
     {
-        "id": 693764,
-        "name": "Чевапчичи из свинины и говядины СЛОВО МЯСНИКА рубленые, категория Б, 300г",
+        "id": 538553,
+        "name": "Печень куриная НАША ПТИЧКА, 490г",
         "regular price": 149.99,
-        "promo price": 119.99,
+        "promo price": 149.99,
         "brand": null
     },
     {
@@ -350,13 +336,6 @@
         "brand": null
     },
     {
-        "id": 503028,
-        "name": "Печень индейки ИНДИЛАЙТ, 500г",
-        "regular price": 329.99,
-        "promo price": 329.99,
-        "brand": null
-    },
-    {
         "id": 588081,
         "name": "Печень говяжья ЛЕНТА замороженная, весовая",
         "regular price": 449.99,
@@ -364,17 +343,17 @@
         "brand": null
     },
     {
-        "id": 507473,
-        "name": "Колбаски из свинины БЛИЖНИЕ ГОРКИ Шашлычные №2, 400г",
-        "regular price": 199.99,
-        "promo price": 169.99,
-        "brand": null
-    },
-    {
         "id": 596833,
         "name": "Филе-стейк из свинины МИРАТОРГ, 300г",
         "regular price": 299.99,
         "promo price": 209.99,
+        "brand": null
+    },
+    {
+        "id": 534175,
+        "name": "Голень куриная ЛЕНТА FRESH в маринаде",
+        "regular price": 479.98,
+        "promo price": 431.98,
         "brand": null
     },
     {
@@ -406,24 +385,10 @@
         "brand": null
     },
     {
-        "id": 674389,
-        "name": "Филе голени индейки ПАВА ПАВА, 450г",
-        "regular price": 329.99,
-        "promo price": 259.99,
-        "brand": null
-    },
-    {
         "id": 716781,
         "name": "Тушка утенка ОЗЁРКА 1 сорт, потрошенная, замороженная, весовая",
         "regular price": 779.98,
         "promo price": 539.98,
-        "brand": null
-    },
-    {
-        "id": 664678,
-        "name": "Филе бедра индейки ПАВА ПАВА, 800г",
-        "regular price": 629.99,
-        "promo price": 499.99,
         "brand": null
     },
     {
@@ -434,13 +399,6 @@
         "brand": null
     },
     {
-        "id": 664585,
-        "name": "Филе грудки ПАВА ПАВА большое, 800г",
-        "regular price": 589.99,
-        "promo price": 589.99,
-        "brand": null
-    },
-    {
         "id": 596689,
         "name": "Стейк из грудки индейки ПАВА ПАВА, 500г",
         "regular price": 419.99,
@@ -448,10 +406,17 @@
         "brand": null
     },
     {
-        "id": 453566,
-        "name": "Азу из индейки ПАВА ПАВА, 600г",
-        "regular price": 389.99,
-        "promo price": 389.99,
+        "id": 664585,
+        "name": "Филе грудки ПАВА ПАВА большое, 800г",
+        "regular price": 589.99,
+        "promo price": 589.99,
+        "brand": null
+    },
+    {
+        "id": 664678,
+        "name": "Филе бедра индейки ПАВА ПАВА, 800г",
+        "regular price": 629.99,
+        "promo price": 499.99,
         "brand": null
     },
     {
@@ -462,17 +427,17 @@
         "brand": null
     },
     {
-        "id": 685132,
-        "name": "Шашлык из филе грудки индейки ПАВА ПАВА, 900г",
-        "regular price": 559.99,
-        "promo price": 459.99,
-        "brand": null
-    },
-    {
         "id": 725208,
         "name": "Стейк из говядины PREMIUM CLUB 60 секунд, 200г",
         "regular price": 299.99,
         "promo price": 299.99,
+        "brand": null
+    },
+    {
+        "id": 538560,
+        "name": "Сердце куриное НАША ПТИЧКА, 490г",
+        "regular price": 199.99,
+        "promo price": 199.99,
         "brand": null
     },
     {
@@ -483,31 +448,10 @@
         "brand": null
     },
     {
-        "id": 738177,
-        "name": "Котлета ИНДИЛАЙТ Натуральная, 400г",
-        "regular price": 369.99,
-        "promo price": 369.99,
-        "brand": null
-    },
-    {
-        "id": 513734,
-        "name": "Ребрышки из свиной корейки ЧЕРКИЗОВО, весовые",
-        "regular price": 359.99,
-        "promo price": 317.99,
-        "brand": null
-    },
-    {
         "id": 719258,
         "name": "Поджарка из свинины ЛЕНТА FRESH, 400г",
         "regular price": 189.99,
         "promo price": 169.99,
-        "brand": null
-    },
-    {
-        "id": 656703,
-        "name": "Купаты из свинины БЛИЖНИЕ ГОРКИ Гриль, 400г",
-        "regular price": 199.99,
-        "promo price": 174.99,
         "brand": null
     },
     {
@@ -518,31 +462,17 @@
         "brand": null
     },
     {
-        "id": 665313,
-        "name": "Фарш НАША ПТИЧКА Домашний, 400г",
-        "regular price": 134.99,
-        "promo price": 134.99,
+        "id": 656703,
+        "name": "Купаты из свинины БЛИЖНИЕ ГОРКИ Гриль, 400г",
+        "regular price": 199.99,
+        "promo price": 174.99,
         "brand": null
     },
     {
-        "id": 439715,
-        "name": "Желудки куриные ПЕТЕЛИНКА, 500г",
-        "regular price": 179.99,
-        "promo price": 179.99,
-        "brand": null
-    },
-    {
-        "id": 691943,
-        "name": "Карбонад свиной ЛЕНТА FRESH бескостный, весовой",
-        "regular price": 479.99,
-        "promo price": 399.99,
-        "brand": null
-    },
-    {
-        "id": 385010,
-        "name": "Тушка цыпленка-бройлера ЛАТИФА, 1-й сорт, Халяль, весовая",
-        "regular price": 666.98,
-        "promo price": 666.98,
+        "id": 513734,
+        "name": "Ребрышки из свиной корейки ЧЕРКИЗОВО, весовые",
+        "regular price": 359.99,
+        "promo price": 317.99,
         "brand": null
     },
     {
@@ -550,13 +480,6 @@
         "name": "Стейк из свиной шейки МИРАТОРГ Мраморный Tender Pork, 280г",
         "regular price": 259.99,
         "promo price": 229.99,
-        "brand": null
-    },
-    {
-        "id": 727828,
-        "name": "Мякоть говяжья МЯСО ЕСТЬ! лопаточная часть, бескостная, 400г",
-        "regular price": 499.99,
-        "promo price": 439.99,
         "brand": null
     },
     {
@@ -581,38 +504,10 @@
         "brand": null
     },
     {
-        "id": 571623,
-        "name": "Котлеты ПЕТЕЛИНКА По-петелински со сладким перцем и сыром, 500г",
-        "regular price": 239.99,
-        "promo price": 199.99,
-        "brand": null
-    },
-    {
         "id": 735084,
         "name": "Стейк из говядины для салата МИРАТОРГ Black Angus, бескостный, 200г",
         "regular price": 369.99,
         "promo price": 369.99,
-        "brand": null
-    },
-    {
-        "id": 528579,
-        "name": "Стейк из говядины МИРАТОРГ Паризьен Black Angus, 290г",
-        "regular price": 579.99,
-        "promo price": 579.99,
-        "brand": null
-    },
-    {
-        "id": 601342,
-        "name": "Стейк из мраморной говядины МИРАТОРГ Matured Beef Денвер, 310г",
-        "regular price": 699.99,
-        "promo price": 699.99,
-        "brand": null
-    },
-    {
-        "id": 526342,
-        "name": "Ребра свиные для запекания ЧЕРКИЗОВО Аппетитные, в маринаде, весовые",
-        "regular price": 549.99,
-        "promo price": 461.99,
         "brand": null
     },
     {
@@ -623,17 +518,24 @@
         "brand": null
     },
     {
+        "id": 528579,
+        "name": "Стейк из говядины МИРАТОРГ Паризьен Black Angus, 290г",
+        "regular price": 579.99,
+        "promo price": 579.99,
+        "brand": null
+    },
+    {
+        "id": 526342,
+        "name": "Ребра свиные для запекания ЧЕРКИЗОВО Аппетитные, в маринаде, весовые",
+        "regular price": 549.99,
+        "promo price": 461.99,
+        "brand": null
+    },
+    {
         "id": 725337,
         "name": "Стейк из говядины PREMIUM CLUB Стриплойн Choice, 320г",
         "regular price": 749.99,
         "promo price": 749.99,
-        "brand": null
-    },
-    {
-        "id": 735665,
-        "name": "Ромштекс из филе куриной грудки ПЕРВАЯ СВЕЖЕСТЬ, 250г",
-        "regular price": 129.99,
-        "promo price": 109.99,
         "brand": null
     },
     {
@@ -644,20 +546,6 @@
         "brand": null
     },
     {
-        "id": 689829,
-        "name": "Шея свиная ЛЕНТА FRESH бескостная, весовая",
-        "regular price": 699.99,
-        "promo price": 579.99,
-        "brand": null
-    },
-    {
-        "id": 720315,
-        "name": "Мякоть лопаточной части говядины, бескостная, весовая",
-        "regular price": 599.5,
-        "promo price": 599.5,
-        "brand": null
-    },
-    {
         "id": 731878,
         "name": "Котлеты из индейки ИНДИЛАЙТ с панировкой, со сливками, 450г",
         "regular price": 209.99,
@@ -665,10 +553,24 @@
         "brand": null
     },
     {
+        "id": 689829,
+        "name": "Шея свиная ЛЕНТА FRESH бескостная, весовая",
+        "regular price": 699.99,
+        "promo price": 579.99,
+        "brand": null
+    },
+    {
         "id": 598359,
         "name": "Стейк из говядины МИРАТОРГ Black Angus Три-тип, 390г",
         "regular price": 959.99,
         "promo price": 959.99,
+        "brand": null
+    },
+    {
+        "id": 720315,
+        "name": "Мякоть лопаточной части говядины, бескостная, весовая",
+        "regular price": 599.5,
+        "promo price": 599.5,
         "brand": null
     },
     {
@@ -686,13 +588,6 @@
         "brand": null
     },
     {
-        "id": 496097,
-        "name": "Рагу из говядины МИРАТОРГ, 1кг",
-        "regular price": 219.99,
-        "promo price": 164.99,
-        "brand": null
-    },
-    {
         "id": 725293,
         "name": "Стейк из говядины PREMIUM CLUB Топ Блейд, 250г",
         "regular price": 499.99,
@@ -700,10 +595,17 @@
         "brand": null
     },
     {
-        "id": 699507,
-        "name": "Биточки ЯРОСЛАВСКИЙ БРОЙЛЕР Нежные, 480г",
-        "regular price": 119.99,
-        "promo price": 119.99,
+        "id": 496097,
+        "name": "Рагу из говядины МИРАТОРГ, 1кг",
+        "regular price": 219.99,
+        "promo price": 164.99,
+        "brand": null
+    },
+    {
+        "id": 578516,
+        "name": "Стейк из говядины МЯСО ЕСТЬ! Стриплойн в маринаде, 200г",
+        "regular price": 419.99,
+        "promo price": 419.99,
         "brand": null
     },
     {
@@ -714,17 +616,115 @@
         "brand": null
     },
     {
-        "id": 538356,
-        "name": "Бедро куриное НАША ПТИЧКА с хребтом, весовое",
-        "regular price": 276.74,
-        "promo price": 242.99,
+        "id": 462150,
+        "name": "Лопатка из свинины БЛИЖНИЕ ГОРКИ в пряно-сливочном соусе, весовая",
+        "regular price": 599.99,
+        "promo price": 557.99,
         "brand": null
     },
     {
-        "id": 721466,
-        "name": "Долма из говядины/свинины",
+        "id": 725396,
+        "name": "Люля-кебаб из говядины, категория Б, весовое",
+        "regular price": 425.0,
+        "promo price": 370.0,
+        "brand": null
+    },
+    {
+        "id": 736601,
+        "name": "Стейк из мраморной говядины МИРАТОРГ Паук Black Angus, 330г",
+        "regular price": 499.99,
+        "promo price": 499.99,
+        "brand": null
+    },
+    {
+        "id": 721464,
+        "name": "Голубцы фаршированные из мяса говядины/свинины",
+        "regular price": 300.0,
+        "promo price": 300.0,
+        "brand": null
+    },
+    {
+        "id": 727495,
+        "name": "Телятина ЭКОЛЬ Духовая, 400г",
+        "regular price": 599.99,
+        "promo price": 539.99,
+        "brand": null
+    },
+    {
+        "id": 737579,
+        "name": "Филей из говядины, наружной части, бескостный, весовой",
+        "regular price": 574.5,
+        "promo price": 574.5,
+        "brand": null
+    },
+    {
+        "id": 720506,
+        "name": "Фарш говяжий, весовой",
+        "regular price": 400.0,
+        "promo price": 400.0,
+        "brand": null
+    },
+    {
+        "id": 468420,
+        "name": "Ребрышки свиные САМСОН, весовые",
+        "regular price": 857.99,
+        "promo price": 727.99,
+        "brand": null
+    },
+    {
+        "id": 727260,
+        "name": "Баранина для бульона ЭКОЛЬ, 400г",
+        "regular price": 249.99,
+        "promo price": 219.99,
+        "brand": null
+    },
+    {
+        "id": 737075,
+        "name": "Купаты из свинины и говядины, весовые",
         "regular price": 350.0,
         "promo price": 350.0,
+        "brand": null
+    },
+    {
+        "id": 737578,
+        "name": "Ребра для гриля, мясокостные, весовые",
+        "regular price": 839.99,
+        "promo price": 669.99,
+        "brand": null
+    },
+    {
+        "id": 739668,
+        "name": "Бургер из говядины Black Angus, 180г",
+        "regular price": 159.99,
+        "promo price": 159.99,
+        "brand": null
+    },
+    {
+        "id": 720505,
+        "name": "Шейно-лопаточная часть говяжья на кости, весовая",
+        "regular price": 899.99,
+        "promo price": 899.99,
+        "brand": null
+    },
+    {
+        "id": 581693,
+        "name": "Шашлык из свиной шеи МИРАТОРГ, весовой",
+        "regular price": 1599.98,
+        "promo price": 1399.98,
+        "brand": null
+    },
+    {
+        "id": 737076,
+        "name": "Купаты из говядины с грибами и шпинатом, весовые",
+        "regular price": 400.0,
+        "promo price": 400.0,
+        "brand": null
+    },
+    {
+        "id": 737589,
+        "name": "Колбаски говяжьи, весовые",
+        "regular price": 410.0,
+        "promo price": 410.0,
         "brand": null
     }
 ]

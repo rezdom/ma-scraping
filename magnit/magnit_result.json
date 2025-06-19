@@ -1,9 +1,16 @@
 [
     {
+        "id": "1000233462",
+        "name": "Филе цыпленка-бройлера",
+        "regular price": 399.99,
+        "promo price": 349.99,
+        "brand": null
+    },
+    {
         "id": "9072651501",
         "name": "Бананы",
         "regular price": 189.99,
-        "promo price": 169.99,
+        "promo price": 159.99,
         "brand": null
     },
     {
@@ -23,7 +30,7 @@
     {
         "id": "3412060006",
         "name": "Картофель новый урожай",
-        "regular price": 109.99,
+        "regular price": 104.99,
         "promo price": null,
         "brand": null
     },
@@ -52,13 +59,13 @@
         "id": "1444282020",
         "name": "Перец красный",
         "regular price": 89.99,
-        "promo price": 83.99,
+        "promo price": 80.99,
         "brand": null
     },
     {
-        "id": "9009072607",
-        "name": "Томаты черри 250г",
-        "regular price": 129.99,
+        "id": "1444282009",
+        "name": "Абрикосы",
+        "regular price": 89.99,
         "promo price": null,
         "brand": null
     },
@@ -70,38 +77,38 @@
         "brand": null
     },
     {
-        "id": "1000382819",
-        "name": "Томаты Flamenco сливовидные 450г",
-        "regular price": 179.99,
-        "promo price": null,
-        "brand": null
-    },
-    {
-        "id": "3414400029",
-        "name": "Груши Конференция",
-        "regular price": 244.99,
-        "promo price": null,
-        "brand": null
-    },
-    {
         "id": "3412080034",
         "name": "Капуста пекинская",
-        "regular price": 116.99,
+        "regular price": 125.99,
         "promo price": null,
         "brand": null
     },
     {
-        "id": "1000514759",
-        "name": "Колбаса Папа может Классическая вареная 300г",
-        "regular price": 199.99,
-        "promo price": 89.99,
+        "id": "1000297736",
+        "name": "Лопатка свиная крупнокусковая",
+        "regular price": 339.99,
+        "promo price": 319.99,
         "brand": null
     },
     {
         "id": "1000199832",
         "name": "Фарш Индилайт Классический 450г",
         "regular price": 199.99,
-        "promo price": 174.99,
+        "promo price": null,
+        "brand": null
+    },
+    {
+        "id": "1000444730",
+        "name": "Ветчина Индилайт Кампана из грудки индейки вареная нарезка 120г",
+        "regular price": 179.99,
+        "promo price": 99.99,
+        "brand": null
+    },
+    {
+        "id": "1000240825",
+        "name": "Стейк из грудки индейки Индилайт 525г",
+        "regular price": 379.99,
+        "promo price": null,
         "brand": null
     },
     {
@@ -112,24 +119,17 @@
         "brand": null
     },
     {
-        "id": "1000389507",
-        "name": "Томаты Premiere Of Taste Черри Горячее сердце 200г",
-        "regular price": 149.99,
-        "promo price": null,
-        "brand": null
-    },
-    {
         "id": "3454700001",
         "name": "Яйцо столовое C1 10шт",
-        "regular price": 95.19,
-        "promo price": 83.99,
+        "regular price": 85.69,
+        "promo price": 79.99,
         "brand": null
     },
     {
-        "id": "1444282032",
-        "name": "Черешня",
-        "regular price": 279.92,
-        "promo price": null,
+        "id": "1000514759",
+        "name": "Колбаса Папа может Классическая вареная 300г",
+        "regular price": 199.99,
+        "promo price": 89.99,
         "brand": null
     },
     {
@@ -163,7 +163,7 @@
     {
         "id": "1000227406",
         "name": "Огурцы короткоплодные тепличные 450г",
-        "regular price": 159.99,
+        "regular price": 129.99,
         "promo price": null,
         "brand": null
     },
@@ -196,17 +196,17 @@
         "brand": null
     },
     {
-        "id": "3412080003",
-        "name": "Кабачки",
-        "regular price": 95.99,
-        "promo price": null,
-        "brand": null
-    },
-    {
         "id": "2400023187",
         "name": "Яблоки Гала",
         "regular price": 143.99,
         "promo price": null,
+        "brand": null
+    },
+    {
+        "id": "1000297735",
+        "name": "Окорок свиной",
+        "regular price": 349.99,
+        "promo price": 329.99,
         "brand": null
     },
     {
@@ -245,10 +245,10 @@
         "brand": null
     },
     {
-        "id": "1000233458",
-        "name": "Бедро цыпленка-бройлера",
-        "regular price": 170.99,
-        "promo price": 161.99,
+        "id": "1000513499",
+        "name": "Форель Русское море слабосоленая филе-кусок 150г",
+        "regular price": 449.99,
+        "promo price": 339.99,
         "brand": null
     },
     {
@@ -261,7 +261,7 @@
     {
         "id": "1000189765",
         "name": "Филе бедра цыпленка-бройлера Петелинка",
-        "regular price": 407.99,
+        "regular price": 375.99,
         "promo price": null,
         "brand": null
     },
@@ -283,13 +283,13 @@
         "id": "1000009931",
         "name": "Креветки Магнит Королевские 60/80",
         "regular price": 499.99,
-        "promo price": 299.99,
+        "promo price": 349.99,
         "brand": null
     },
     {
         "id": "1000143746",
         "name": "Огурцы короткоплодные пупырчатые",
-        "regular price": 69.99,
+        "regular price": 64.99,
         "promo price": null,
         "brand": null
     },
@@ -297,6 +297,13 @@
         "id": "3412080035",
         "name": "Киви",
         "regular price": 127.99,
+        "promo price": null,
+        "brand": null
+    },
+    {
+        "id": "1000204366",
+        "name": "Тесто Тестов для чебуреков бездрожжевое 500г",
+        "regular price": 120.99,
         "promo price": null,
         "brand": null
     },
@@ -317,8 +324,15 @@
     {
         "id": "1000302965",
         "name": "Бекон Великолукский МК из свинины сырокопченый нарезка 150г",
-        "regular price": 259.99,
-        "promo price": null,
+        "regular price": 249.99,
+        "promo price": 149.99,
+        "brand": null
+    },
+    {
+        "id": "1000111115",
+        "name": "Фруктовый лед Бон Пари Взрывный ураган 2.9% 54мл",
+        "regular price": 79.99,
+        "promo price": 54.99,
         "brand": null
     },
     {
@@ -336,13 +350,6 @@
         "brand": null
     },
     {
-        "id": "1000291140",
-        "name": "Томаты розовые Азербайджан",
-        "regular price": 94.95,
-        "promo price": null,
-        "brand": null
-    },
-    {
         "id": "1000332012",
         "name": "Сыр полутвердый Grunlander Hochland 50% кусок 400г",
         "regular price": 639.99,
@@ -357,9 +364,30 @@
         "brand": null
     },
     {
+        "id": "1000280179",
+        "name": "Фарш Мираторг Домашний из свинины и говядины 400г",
+        "regular price": 219.99,
+        "promo price": null,
+        "brand": null
+    },
+    {
         "id": "1855599920",
         "name": "Масло сливочное Магнит Крестьянское 72.5% 180г",
         "regular price": 169.99,
+        "promo price": null,
+        "brand": null
+    },
+    {
+        "id": "1728400030",
+        "name": "Майонез Слобода Провансаль 67% 750г",
+        "regular price": 239.99,
+        "promo price": 169.99,
+        "brand": null
+    },
+    {
+        "id": "1000426511",
+        "name": "Томаты Premiere Of Taste Черри Клубничный поцелуй 200г",
+        "regular price": 159.99,
         "promo price": null,
         "brand": null
     },
@@ -368,27 +396,6 @@
         "name": "Сосиски Папа может Супер Сытные 600г",
         "regular price": 329.99,
         "promo price": 169.99,
-        "brand": null
-    },
-    {
-        "id": "1728400030",
-        "name": "Майонез Слобода Провансаль 67% 750г",
-        "regular price": 239.99,
-        "promo price": null,
-        "brand": null
-    },
-    {
-        "id": "1000193728",
-        "name": "Туалетная бумага Papia Балийский цветок 8 рулонов 3 слоя",
-        "regular price": 309.99,
-        "promo price": 219.99,
-        "brand": null
-    },
-    {
-        "id": "1000426511",
-        "name": "Томаты Premiere Of Taste Черри Клубничный поцелуй 200г",
-        "regular price": 189.99,
-        "promo price": null,
         "brand": null
     },
     {
@@ -406,6 +413,13 @@
         "brand": null
     },
     {
+        "id": "1000233459",
+        "name": "Грудка цыпленка-бройлера",
+        "regular price": 359.98,
+        "promo price": null,
+        "brand": null
+    },
+    {
         "id": "1000478623",
         "name": "Колбаса Вязанка Молокуша вареная 450г",
         "regular price": 299.99,
@@ -416,14 +430,7 @@
         "id": "1000172258",
         "name": "Томаты сливовидные 600г",
         "regular price": 159.99,
-        "promo price": null,
-        "brand": null
-    },
-    {
-        "id": "1444282069",
-        "name": "Голубика 125г",
-        "regular price": 199.99,
-        "promo price": null,
+        "promo price": 129.99,
         "brand": null
     },
     {
@@ -450,8 +457,8 @@
     {
         "id": "1623699906",
         "name": "Пирожное Orion в глазури Choco Pie 360г",
-        "regular price": 169.99,
-        "promo price": 149.99,
+        "regular price": 219.99,
+        "promo price": 169.99,
         "brand": null
     },
     {
@@ -465,6 +472,13 @@
         "id": "3412060011",
         "name": "Чеснок",
         "regular price": 43.99,
+        "promo price": null,
+        "brand": null
+    },
+    {
+        "id": "3024150001",
+        "name": "Грибы Шампиньоны",
+        "regular price": 123.99,
         "promo price": null,
         "brand": null
     },
@@ -487,6 +501,13 @@
         "name": "Напиток Добрый Cola 1.5л",
         "regular price": 159.99,
         "promo price": 139.99,
+        "brand": null
+    },
+    {
+        "id": "1000385426",
+        "name": "Карбонад Сибагро Свиной охлажденный",
+        "regular price": 399.99,
+        "promo price": null,
         "brand": null
     },
     {
@@ -513,21 +534,7 @@
     {
         "id": "1000431577",
         "name": "Напиток Черноголовка Кола 2л",
-        "regular price": 149.99,
-        "promo price": 134.99,
-        "brand": null
-    },
-    {
-        "id": "1000242775",
-        "name": "Сыр Брест-Литовск Классический 45% 200г",
-        "regular price": 269.99,
-        "promo price": null,
-        "brand": null
-    },
-    {
-        "id": "2400000207",
-        "name": "Шампиньоны королевские 300г",
-        "regular price": 219.99,
+        "regular price": 134.99,
         "promo price": null,
         "brand": null
     },
@@ -541,14 +548,14 @@
     {
         "id": "1000003186",
         "name": "Молоко сгущенное Алексеевское 8.5% 650г",
-        "regular price": 299.99,
+        "regular price": 279.99,
         "promo price": 219.99,
         "brand": null
     },
     {
         "id": "1360300003",
         "name": "Хлеб пшеничный нарезанный Harrys 470г",
-        "regular price": 119.99,
+        "regular price": 139.99,
         "promo price": null,
         "brand": null
     },
@@ -557,13 +564,6 @@
         "name": "Мука Увелка Пшеничная 2кг",
         "regular price": 124.99,
         "promo price": 99.99,
-        "brand": null
-    },
-    {
-        "id": "1000157392",
-        "name": "Сыр творожный Hochland сливочный 60% 220г",
-        "regular price": 224.99,
-        "promo price": 169.99,
         "brand": null
     },
     {
@@ -597,7 +597,14 @@
     {
         "id": "1000397214",
         "name": "Сыр Premiere of taste Моцарелла 40% 200г",
-        "regular price": 279.99,
+        "regular price": 229.99,
+        "promo price": null,
+        "brand": null
+    },
+    {
+        "id": "1000166121",
+        "name": "Салат Руккола Радичио 75г",
+        "regular price": 99.99,
         "promo price": null,
         "brand": null
     },
@@ -612,7 +619,7 @@
         "id": "1032420023",
         "name": "Чай черный Greenfield Golden Ceylon 100пак",
         "regular price": 459.99,
-        "promo price": 299.99,
+        "promo price": 369.99,
         "brand": null
     },
     {
@@ -625,8 +632,8 @@
     {
         "id": "1446000001",
         "name": "Шампиньоны 250г",
-        "regular price": 129.99,
-        "promo price": 109.99,
+        "regular price": 119.99,
+        "promo price": null,
         "brand": null
     },
     {
@@ -658,10 +665,10 @@
         "brand": null
     },
     {
-        "id": "1000478622",
-        "name": "Колбаса Вязанка Филейская вареная 450г",
-        "regular price": 299.99,
-        "promo price": 139.99,
+        "id": "1000474804",
+        "name": "Карбонад EatMeat варено-копченый нарезка 100г",
+        "regular price": 89.99,
+        "promo price": null,
         "brand": null
     },
     {
@@ -672,24 +679,17 @@
         "brand": null
     },
     {
-        "id": "1000216597",
-        "name": "Сыр Pretto Моцарелла Чильеджина 45% 100г",
-        "regular price": 159.99,
-        "promo price": 109.99,
-        "brand": null
-    },
-    {
         "id": "2047000007",
         "name": "Яйцо столовое С2 10шт в ассортименте",
-        "regular price": 55.99,
+        "regular price": 58.49,
         "promo price": null,
         "brand": null
     },
     {
         "id": "7505551301",
         "name": "Крабовые палочки Русское море охлажденные 200г",
-        "regular price": 129.99,
-        "promo price": 109.0,
+        "regular price": 122.99,
+        "promo price": null,
         "brand": null
     },
     {
@@ -700,17 +700,10 @@
         "brand": null
     },
     {
-        "id": "3412080037",
-        "name": "Редис 500г",
-        "regular price": 139.99,
-        "promo price": null,
-        "brand": null
-    },
-    {
         "id": "1000533857",
         "name": "Колбаса Папа может Сервелат Карельский варено-копченый 280г",
-        "regular price": 259.99,
-        "promo price": null,
+        "regular price": 219.99,
+        "promo price": 149.99,
         "brand": null
     },
     {
@@ -728,24 +721,10 @@
         "brand": null
     },
     {
-        "id": "8000023993",
-        "name": "Колбаса Владимирский стандарт Сервелат Филейный варено-копченая 270г",
-        "regular price": 259.99,
-        "promo price": null,
-        "brand": null
-    },
-    {
         "id": "1891200042",
         "name": "Сыр плавленый President Сливочный 45% 400г",
         "regular price": 399.99,
         "promo price": 269.99,
-        "brand": null
-    },
-    {
-        "id": "9072651505",
-        "name": "Грейпфрут",
-        "regular price": 119.99,
-        "promo price": null,
         "brand": null
     },
     {
@@ -759,13 +738,6 @@
         "id": "9639630174",
         "name": "Масло подсолнечное Золотая семечка рафинированное 1л",
         "regular price": 149.99,
-        "promo price": null,
-        "brand": null
-    },
-    {
-        "id": "1000478618",
-        "name": "Колбаса Стародворье Сервелат Мясорубский варено-копченый 400г",
-        "regular price": 279.99,
         "promo price": null,
         "brand": null
     },
@@ -788,13 +760,6 @@
         "name": "Сыр Белебеевский МК Российский 50% 190г",
         "regular price": 249.99,
         "promo price": 189.99,
-        "brand": null
-    },
-    {
-        "id": "3412080030",
-        "name": "Персики",
-        "regular price": 179.99,
-        "promo price": null,
         "brand": null
     }
 ]
